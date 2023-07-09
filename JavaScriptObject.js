@@ -1,4 +1,4 @@
-"use restricted"
+"use restrict"
 let station = "Makadara Railway Station"
 let station2 = "Naukur Railway Station"
 // Object
